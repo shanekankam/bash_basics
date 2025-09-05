@@ -14,6 +14,7 @@ fi
 
 # exercise: write a script that prints whether today is
 # the weekend or not
+echo -n "Hello World"
 echo "Which day of a week is today?"
 read day
 if [[ ${day,,} == "saturday" ]] | [[ ${day,,} == "sunday" ]]

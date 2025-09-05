@@ -8,6 +8,8 @@ if [ "$answer" = "yes" ]; then
 else
    echo "Still Smile :)"
 fi
+ echo "hellooo? How are you today?"; echo "come again? Oh- I'm great!"
+
 
 # here are the other string comparison operators
 # != , -n (not an empty string) , -z (an empty string)
